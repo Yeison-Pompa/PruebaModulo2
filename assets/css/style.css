@@ -6,3 +6,12 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
 }
+
+.hero{
+  
+  background-image: url(../img/hero.jpg);
+  background-size: cover;
+  min-height: 500px;
+  height: 100vh;
+  color: white;
+}
